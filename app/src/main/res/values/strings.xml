@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="menu_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Tic Tac Toe</string>
+    <string name="nav_header_subtitle">Thank you for visiting!!</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings"><i><b>SETTINGS</b></i></string>
+    <string name="menu_gallery">Sign In</string>
+    <string name="menu_slideshow">Settings</string>
+    <string name="textView2"><i><b>TIC TAC TOE</b></i></string>
+    <string name="button1"><i><b>PLAY</b></i></string>
+    <string name="button">_</string>
+</resources>
